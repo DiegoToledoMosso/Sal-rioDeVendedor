@@ -49,7 +49,6 @@
                 if (opcaoContinuar != "S")
                     break;
 
-
             }
         }
     }
